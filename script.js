@@ -35,7 +35,7 @@ document.addEventListener('click', function enableNoSleep() {
 }, false);
 
 function connectWebsocket() {
-  const ws = new WebSocket('wss://stream.binance.com:9443/ws/btcusdt@trade');
+  const ws = new WebSocket('wss://stream.yshyqxx.com:443/ws/btcusdt@trade');
 
   ws.onmessage = function(event) {
     try {

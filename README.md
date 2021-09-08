@@ -26,5 +26,5 @@ To convert the value into your own liking, e.g.: to Euro and/or to your hodl pro
 
 `#0.92` for Euro value; `#1.932` for Euro value with 2.1btc as 0.92 * 2.1 = 1.932.
 
-### Donations are welcome
+### Donations for Author
 *33a8kGMAJgKeKFUGa2dVH2NTtwgAgH26on*
